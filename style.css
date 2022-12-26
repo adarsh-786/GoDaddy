@@ -1,0 +1,53 @@
+
+
+
+
+*{
+    overflow-x: hidden;
+    margin: 0%;
+    padding: 0%; 
+}
+.navbar{
+    min-height:  70px;      
+}
+.row{
+   
+    padding-top: 5%;
+    background-color: #fde9db;
+    /* height: 335px; */
+    justify-content: center;
+}
+
+    h1 {
+        font-family: gd-sage, Times, "Times New Roman", serif   ;
+       }
+
+    a  {
+        text-decoration: none;
+        font-size: 12px ;
+        font-weight: 600;
+        color: rgb(135, 138, 141);
+        font-size: xx-small;
+       }
+
+
+.navbar li:hover{
+    color: black;
+    font-weight: 700;
+
+
+}
+
+h5{
+   
+    font-size: 30px;
+    font-weight: 600;
+}
+.link-dark:hover{
+    color: blue;
+    text-decoration: underline;
+}
+/* .section{
+
+background-image: url(/images/lady.webp);
+} */
